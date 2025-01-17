@@ -1,1 +1,1 @@
-# genneration_labyrinthes_parfaits
+# generation_labyrinthes_parfaits
